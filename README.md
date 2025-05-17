@@ -106,9 +106,8 @@ Total biaya belanja: Rp27000.0
 
 ## 📇 Kontak Pengembang
 
-**👤 Nama:** Muhammad Rafli Nurfathan
-**📧 Email:** [nurfathanrafli85@gmail.com](mailto:nurfathanrafli85@gmail.com)
-
-**🔗 LinkedIn:** [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin)
+- 👤 Nama: **Muhammad Rafli Nurfathan**  
+- 📧 Email: **nurfathanrafli85@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin
 
 ---
