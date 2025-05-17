@@ -108,6 +108,6 @@ Total biaya belanja: Rp27000.0
 
 - 👤 Nama: **Muhammad Rafli Nurfathan**  
 - 📧 Email: **nurfathanrafli85@gmail.com**  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/mhmmdraflin
+- 🔗 LinkedIn: [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin)
 
 ---
