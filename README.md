@@ -1,10 +1,12 @@
-Berikut adalah `README.md` untuk proyek aplikasi **Penghitung Total Biaya Belanja** yang kamu kerjakan sendiri, tanpa bagian rencana pengembangan:
+
 
 ---
 
 # 🛒 Penghitung Total Biaya Belanja
 
 Program ini adalah **aplikasi konsol sederhana** yang digunakan untuk menghitung total biaya belanja berdasarkan input jumlah item, nama item, dan harga masing-masing item. Program tersedia dalam dua bahasa pemrograman: **Pascal** dan **Java**.
+
+> 📘 **Catatan:** Proyek ini merupakan *proyek Ujian Tengah Semester (UTS)* dari mata kuliah **Paradigma Pemrograman**, yang bertujuan untuk menerapkan pemahaman konsep prosedural dan objek dalam pemrograman menggunakan dua paradigma berbeda.
 
 ---
 
@@ -106,8 +108,9 @@ Total biaya belanja: Rp27000.0
 
 ## 📇 Kontak Pengembang
 
-- 👤 Nama: **Muhammad Rafli Nurfathan**  
-- 📧 Email: **nurfathanrafli85@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin)
+* 👤 Nama: **Muhammad Rafli Nurfathan**
+* 📧 Email: **[nurfathanrafli85@gmail.com](mailto:nurfathanrafli85@gmail.com)**
+* 🔗 LinkedIn: [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin)
 
 ---
+
